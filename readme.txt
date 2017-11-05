@@ -8,3 +8,5 @@ Git tracks change.
 
 Creating a new branch is quick AND simple.
 
+
+test add merge no fast forward
